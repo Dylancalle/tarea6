@@ -13,9 +13,17 @@ function generarFizzBuzz(n) {
     {
         return "Buzz";
     }
-    
     return n + "";
   }
   
-  export default generarFizzBuzz;
-  
+  function mostrar(n) {
+    let resul="";
+    while(n!=0)
+    {
+        resul=resul+generarFizzBuzz(n);
+        n--;
+    }
+    return resul;
+  }
+
+  export {mostrar, generarFizzBuzz};

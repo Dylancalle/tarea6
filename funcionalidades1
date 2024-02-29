@@ -14,3 +14,9 @@ Casos de prueba
 3.- Imprimir una secuencia de mas numero tomando en cuenta el caso buzz
     3.1-Si genero un numero multiplo de 3 caso base se genera fizz
     3.2-si genero un numero multipo de 5, caso base de genera buzz 
+4.- Imprimir una secuencia de mas numero tomando en cuenta el caso buzz
+    4.1-Si genero un numero base de multiplos 3 y 5  genera fizzBuzz
+    4.2-si genero un numero multipo de 5 y 3, genera FizzBuzz 
+5.- Imprimir una secuencia del numero ingresado hacia abajo, para mostrar todos los resultados
+    5.1-se genero con los valores enteros
+    5.2-si genero utilizando los valores con Fizz, Buzz, FizzBuzz. 

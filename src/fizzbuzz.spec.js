@@ -1,4 +1,5 @@
-import generarFizzBuzz from "./fizzbuzz";
+import { mostrar , generarFizzBuzz} from "./fizzbuzz";
+
 describe("FizzBuzz", () => {
     it("deberia generar el mismo numero para uno que no tiene regla como 1", () => {
       expect(generarFizzBuzz(1)).toEqual("1");
@@ -23,6 +24,9 @@ describe("FizzBuzz", () => {
     });;
     it("para cuando sea multiplos de 5 y 3, debe mostrar FizzBuzz", () => {
         expect(generarFizzBuzz(30)).toEqual("FizzBuzz");
+    });;
+    it("para cualquier numero, se mostrara una lista de cadenas hasta ese numero", () => {
+       expect(mostrar(5)).toEqual("Buzz4Fizz21");
     });;
   });
   
