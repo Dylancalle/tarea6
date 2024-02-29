@@ -1,0 +1,16 @@
+funcionalidades
+1-Imprimir una secuencia para un numero
+2-Imprimir una secuencia de mas numeros tomando en cuenta el caso fizz
+3-Imprimir una secuencia de mas numeros tomando en cuenta el caso buzz
+4-Imprimir una secuencia de mas numeros tomando en cuenta el caso fizzbuzz
+
+Casos de prueba
+1.- Imprimir una secuencia para un numero 
+    1.1-Si genero un numero caso base se repite ej 1
+    1.2-si genero cuaquier numero, se repite 
+2.- Imprimir una secuencia de mas numero tomando en cuenta el caso fizz
+    2.1-Si genero un numero multiplo de 3 caso base se genera fizz
+    2.2-si genero un numero multipo de 5, caso base de genera buzz 
+3.- Imprimir una secuencia de mas numero tomando en cuenta el caso buzz
+    3.1-Si genero un numero multiplo de 3 caso base se genera fizz
+    3.2-si genero un numero multipo de 5, caso base de genera buzz 
